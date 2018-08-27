@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <key>Finished Export. Exported {0} of {1} rows</key>
+        <language>en</language>
+        <message>Finished Export. Exported {0} of {1} rows</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-27 15:43:00</sys_created_on>
+        <sys_id>707b41374f8023008c582f9ca310c746</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finished Export. Exported {0} of {1} rows</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_message_707b41374f8023008c582f9ca310c746</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-27 15:43:00</sys_updated_on>
+    </sys_ui_message>
+</record_update>
